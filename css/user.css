@@ -1,0 +1,23 @@
+/* CSS Document */
+.users_add{}
+.user_add_table{
+	width:100%;
+}
+.user_add_tableRow{
+	width: 100%;
+}
+
+.user_add_tableRow input{
+	width:100%;
+}
+
+.users_view{
+	padding: 50px 0;
+}
+
+
+.tableHeadRow{
+
+}
+
+.tableRow{}

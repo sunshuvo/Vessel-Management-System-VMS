@@ -1,0 +1,70 @@
+/* CSS Document */
+
+/* CSS Document */
+
+body{
+	margin: 0;
+	padding: 0;
+}
+header{}
+
+.logo{
+	width: 20%;
+	margin: 3% auto;
+}
+.logo img{
+	display: block;
+	width: 100%;
+	max-width: 100px;
+	margin: 0 auto;
+}
+.menu, .field{
+	width: 80%;
+	margin: 3% auto;
+}
+.menu ul,.field ul{
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul li, .field ul li{
+	list-style: none;
+	text-align: center;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+.menu ul a, .field ul a{
+	text-decoration: none;
+	color: black;
+	font-size: 36px;
+	border-bottom: 2px solid transparent;
+	transition: 0.3s;
+}
+.menu ul li:hover, .field ul a li:last-child:hover{
+	background: green;
+}
+.menu ul .page_active a{
+	border-bottom: 2px solid black;
+}
+
+.field{
+	font-size: 20px;
+}
+.field ul{}
+.field ul li{
+	border: none;
+}
+.field ul a{}
+.field ul a:hover{}
+
+.field ul form li:last-child input{
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 5px 20px;
+}
+
+.map{}
+footer{}
+footer address{}
+.footer_link{}

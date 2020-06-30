@@ -1,0 +1,35 @@
+/* CSS Document */
+
+.details{
+	padding: 20px 0;;
+}
+.details_menu{
+	float: left;
+	width: 15%;
+	font-size: 2vw;
+}
+.details_menu ul{}
+.details_menu ul li{}
+.details_menu ul li a{
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+	transition: 0.3s;
+}
+.details_menu ul li a:hover{
+	text-decoration: underline;
+}
+
+.active_details{
+	font-weight: bold;
+}
+
+.details_body{
+	float: right;
+	width: 80%;
+}
+
+.request_view{}
+.request_view input{
+	width: 100%;
+}

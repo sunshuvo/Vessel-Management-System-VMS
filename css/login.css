@@ -1,0 +1,25 @@
+/* CSS Document */
+
+
+.login_logo{
+	width: 20%;
+	margin: 3% auto;
+}
+.login_logo img{
+	width: 100%;
+	max-width: 200px;
+}
+.admin_login{
+	width: 100%;
+}
+.admin_login .field{}
+.admin_login .field ul{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 0;
+	
+}
+.admin_login .field ul li{
+	list-style: none;
+}
