@@ -5,7 +5,7 @@ Here is the screenshots of this project
 
 ![GitHub Logo](/screenshot/11.%20Login.png)
 ![GitHub Logo](/screenshot/12.%20Live%20view.png)
-![GitHub Logo](/screenshot/13.%20pproval%20of%20Field%20request.png)
+![GitHub Logo](/screenshot/13.%20Approval%20of%20Field%20request.png)
 ![GitHub Logo](/screenshot/14.%20Active%20trip.png)
 ![GitHub Logo](/screenshot/15.%20History%20of%20previous%20trip.png)
 ![GitHub Logo](/screenshot/16.%20User%20Management.png)
